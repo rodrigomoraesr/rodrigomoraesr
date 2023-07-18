@@ -31,3 +31,4 @@
 
 
   ![Snake animation](https://github.com/rodrigomoraesr/rodrigomoraesr/blob/output/github-contribution-grid-snake.svg)
+  
