@@ -9,6 +9,8 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     steps:
       # Snake Animation
       - uses: Platane/snk@master
